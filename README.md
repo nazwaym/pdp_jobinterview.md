@@ -28,12 +28,14 @@ sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
 Player|  akan jalan jalan untuk mencari jalan | bisa mencari kunci dan pintu keluar  | ⭐⭐⭐⭐⭐
 Player|  mengumpulkan koint | bisa mendapatkan kunci/keluar dari pintu keluar  | ⭐⭐⭐⭐⭐
-Player|  melewati sebuah virus | bisa mendapatkan kunci  | ⭐⭐⭐⭐⭐
-melewati sebuah virus
+Player|  melewati macan | bisa mendapatkan kunci  | ⭐⭐⭐⭐⭐
+
 
 ## 5. Desain ser Interface
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di 
+"C:\Users\nazwa\Downloads\MAZE.jpg"
+[https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
 erDiagram
