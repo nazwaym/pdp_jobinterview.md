@@ -34,18 +34,15 @@ Player|  melewati macan | bisa mendapatkan kunci  | ⭐⭐⭐⭐⭐
 ## 5. Desain ser Interface
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di 
-"C:\Users\nazwa\Downloads\MAZE.jpg"
-[https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+<img width="305" alt="desain" src="https://github.com/nazwaym/pdp_jobinterview.md/assets/145254945/20bf7f6d-bdb3-40e0-b039-a9aecde493df">
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+
+
 
 ## 6. Flowchart dari Algoritma
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+![flochart maze drawio](https://github.com/nazwaym/pdp_jobinterview.md/assets/145254945/fefa0be9-e132-4793-8920-d883bf94e9b2)
+
 
 ## 7. Link demo game di youtobe
 
