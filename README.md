@@ -9,8 +9,8 @@ Selain sebagai sarana game hiburan, game juga dapat memiliki unsur pendidikan, y
 
 
 ## 1.2. Deksripsi Teknologi Informasi
-daway adalah orang yang selalu menyukai tantangan. dia selalu menyelesaikan labirin sampai bisaa finish, tetapi sebelum sampai finish. tetapi dalam game maze disini daway harus melewati rintangan dulu yaitu mengambil 4 koint lalu mengambil sebuah kunci untuk keluar dari labirin, tetapi nanti ada virus yang akan menghalangi ketika mengambil kunci, dan daway haruss sampai kepintu keluar sebelum 2 menit.tetapi ketika waktu habis 3 menit akan diulangi dari awal. 
-game maze ini yaitu game yang menyelesaikan/mengatasi rintangan rintangan dalam permaianan maze. user harus menyelasaikan rintangan, yaitu pertama tama bisa terlebih dahulu mengumpulkan 3 koint meskipun ada rintangan yang menghalangi ketika mengambil koin satu persatu, ketika koint terkumpul 3 koin, baru bisa mengambil kunci pintu keluar lalu langsung mencari pintu keluar. 
+daway adalah orang yang selalu menyukai tantangan. dia selalu menyelesaikan labirin sampai bisaa finish, tetapi sebelum sampai finish. tetapi dalam game maze disini daway harus melewati rintangan dulu yaitu mengambil 4 koint lalu mengambil sebuah kunci untuk keluar dari labirin, tetapi nanti ada virus yang akan menghalangi ketika mengambil kunci, dan daway haruss sampai kepintu keluar sebelum 2 menit.tetapi ketika waktu habis 2 menit akan diulangi dari awal. 
+game maze ini yaitu game yang menyelesaikan/mengatasi rintangan rintangan dalam permaianan maze. user harus menyelasaikan rintangan, yaitu pertama tama bisa terlebih dahulu mengumpulkan 3 koint meskipun ada rintangan yang menghalangi ketika mengambil koin satu persatu, ketika koint terkumpul 4 koin, baru bisa mengambil kunci pintu keluar lalu langsung mencari pintu keluar. 
 
 ## 3. Branding
 ### A. Nama/Merk Game :
@@ -28,7 +28,7 @@ sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
 Player|  akan jalan jalan untuk mencari jalan | bisa mencari kunci dan pintu keluar  | ⭐⭐⭐⭐⭐
 Player|  mengumpulkan koint | bisa mendapatkan kunci/keluar dari pintu keluar  | ⭐⭐⭐⭐⭐
-Player|  melewati macan | bisa mendapatkan kunci  | ⭐⭐⭐⭐⭐
+Player|  melewati virus | bisa mendapatkan kunci  | ⭐⭐⭐⭐⭐
 
 
 ## 5. Desain ser Interface
